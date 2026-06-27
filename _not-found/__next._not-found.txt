@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[39756,["/cafe-website/_next/static/chunks/f5dbffc2357b227a.js","/cafe-website/_next/static/chunks/a6850a050755d134.js","/cafe-website/_next/static/chunks/2f236954d6a65e12.js"],"default"]
+3:I[37457,["/cafe-website/_next/static/chunks/f5dbffc2357b227a.js","/cafe-website/_next/static/chunks/a6850a050755d134.js","/cafe-website/_next/static/chunks/2f236954d6a65e12.js"],"default"]
+0:{"buildId":"fWK2W5_mcuuYnx3t1zu0n","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
